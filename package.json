@@ -1,7 +1,7 @@
 {
   "name": "sharp-fourth-preview",
   "description": "The sharp fourth for inkdrop preview theme.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "theme": "preview",
   "scripts": {
     "build": "lessc styles/less/sharp-fourth-markdown.less ./styles/sharp-fourth-markdown.css && lessc styles/less/sharp-fourth-markdown-dark.less ./styles/sharp-fourth-markdown-dark.css"
