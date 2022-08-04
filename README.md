@@ -1,12 +1,19 @@
-# Github Preview Theme
+# Sharp Fourth Preview Theme
 
-A default Markdown preview theme for [Inkdrop](https://www.inkdrop.app/).
+The sharp fourth for inkdrop preview theme.
 
- * `styles/github-markdown.less` - Styles for light UI theme
- * `styles/github-markdown-dark.less` - Styles for dark UI theme
+# How to install
 
-## Theming code blocks
+```
+ipm install sharp-fourth-preview
+```
 
-Highlighting code blocks is built with [CodeMirror](https://codemirror.net/demo/theme.html), and CSS selectors for styling code blocks are compatible with it.
-CSS selectors always start with `cm-`.
-You can easily import styles from [CodeMirror's theme](https://github.com/codemirror/CodeMirror/tree/master/theme).
+# The Sharp Fourth
+
+![Screenshot 1](https://github.com/khouwdevin/inkdrop-sharp-fourth-preview-theme/blob/master/pictures/photo1.png?raw=true)
+
+# Perfectly match with Gold&Green and Stylized&Fantasy theme
+
+![Screenshot 2](https://github.com/khouwdevin/inkdrop-sharp-fourth-preview-theme/blob/master/pictures/photo2.png?raw=true)
+
+Here [Gold&Green Theme](https://my.inkdrop.app/plugins/goldgreen-dark-ui) || [Stylized&Fantasy Theme](https://my.inkdrop.app/plugins/stylized-fantasy-syntax-theme)
