@@ -10,6 +10,8 @@ ipm install sharp-fourth-preview
 
 # The Sharp Fourth
 
+![Screenshot 3](https://github.com/khouwdevin/inkdrop-sharp-fourth-preview-theme/blob/master/pictures/photo3.png?raw=true)
+
 ![Screenshot 1](https://github.com/khouwdevin/inkdrop-sharp-fourth-preview-theme/blob/master/pictures/photo1.png?raw=true)
 
 # Perfectly match with Gold&Green and Stylized&Fantasy theme

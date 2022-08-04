@@ -1,5 +1,5 @@
 body[class*="dark-ui"] .mde-preview {
-  color: #22b4a8;
+  color: #c1c1c1;
 }
 body[class*="dark-ui"] .mde-preview a {
   background-color: transparent;
@@ -27,6 +27,13 @@ body[class*="dark-ui"] .mde-preview h4,
 body[class*="dark-ui"] .mde-preview h5,
 body[class*="dark-ui"] .mde-preview h6 {
   color: rgba(255, 255, 255, 0.9);
+}
+body[class*="dark-ui"] .mde-preview h1,
+body[class*="dark-ui"] .mde-preview h2 {
+  border-bottom: none !important;
+}
+body[class*="dark-ui"] .mde-preview ul {
+  color: #c1c1c1 !important;
 }
 body[class*="dark-ui"] .mde-preview hr {
   background-color: rgba(255, 255, 255, 0.3);
