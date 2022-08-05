@@ -108,6 +108,9 @@ body[class*="dark-ui"] .mde-preview .cm-property {
 body[class*="dark-ui"] .mde-preview .cm-operator {
   color: #cc99cc;
 }
+body[class*="dark-ui"] .mde-preview .cm-variable {
+  color: #17e9d5;
+}
 body[class*="dark-ui"] .mde-preview .cm-variable-2 {
   color: #4A664A;
 }

@@ -20,6 +20,7 @@
   content: "";
 }
 .mde-preview a {
+  color: #1a59c9;
   background-color: transparent;
 }
 .mde-preview a:active,
@@ -83,7 +84,7 @@
   font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 .mde-preview a {
-  color: #4078c0;
+  color: #4078c0 !important;
   text-decoration: none;
 }
 .mde-preview a:hover,
@@ -117,6 +118,7 @@
   padding-top: 15px;
   margin-bottom: 15px;
   line-height: 1.1;
+  color: black;
 }
 .mde-preview h1 {
   font-size: 30px;
@@ -194,6 +196,9 @@
   color: inherit;
   text-decoration: none;
 }
+.mde-preview p {
+  color: black !important;
+}
 .mde-preview .anchor {
   display: inline-block;
   padding-right: 2px;
@@ -232,7 +237,7 @@
   padding-bottom: 0.3em;
   font-size: 2.25em;
   line-height: 1.2;
-  border-bottom: 1px solid #eee;
+  border-bottom: none;
 }
 .mde-preview h1 .anchor {
   line-height: 1;
@@ -241,7 +246,7 @@
   padding-bottom: 0.3em;
   font-size: 1.75em;
   line-height: 1.225;
-  border-bottom: 1px solid #eee;
+  border-bottom: none;
 }
 .mde-preview h2 .anchor {
   line-height: 1;
@@ -319,8 +324,8 @@
 }
 .mde-preview blockquote {
   padding: 0 15px;
-  color: #777;
-  border-left: 4px solid #ddd;
+  color: black;
+  border-left: 4px solid #0000001c;
 }
 .mde-preview blockquote > :first-child {
   margin-top: 0;
@@ -441,7 +446,7 @@
   text-decoration: line-through;
 }
 .mde-preview .cm-keyword {
-  color: #333;
+  color: #2165de;
   font-weight: bold;
 }
 .mde-preview .cm-atom {
@@ -451,13 +456,17 @@
   color: #164;
 }
 .mde-preview .cm-def {
-  color: #00f;
+  color: #f05f00;
 }
 .mde-preview .cm-property {
   color: #00c;
 }
 .mde-preview .cm-operator {
   color: #708;
+}
+.mde-preview .cm-variable,
+.mde-preview .cm-punctuation {
+  color: #ff0090;
 }
 .mde-preview .cm-variable-2 {
   color: #05a;
@@ -467,17 +476,17 @@
   color: #085;
 }
 .mde-preview .cm-comment {
-  color: #a50;
+  color: #bdbdbd;
   font-style: italic;
 }
 .mde-preview .cm-string {
-  color: #a11;
+  color: #b03100;
 }
 .mde-preview .cm-string-2 {
   color: #f50;
 }
 .mde-preview .cm-meta {
-  color: #555;
+  color: #7446d6;
 }
 .mde-preview .cm-qualifier {
   color: #555;
