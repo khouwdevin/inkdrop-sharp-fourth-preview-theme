@@ -118,7 +118,7 @@ body[class*="dark-ui"] .mde-preview .cm-variable-3 {
   color: rgba(255, 255, 255, 0.8);
 }
 body[class*="dark-ui"] .mde-preview .cm-type {
-  color: rgb(163 163 163);
+  color: #cbcbcb;
 }
 body[class*="dark-ui"] .mde-preview .cm-comment {
   color: #696969;
@@ -137,7 +137,7 @@ body[class*="dark-ui"] .mde-preview .cm-qualifier {
   color: #555;
 }
 body[class*="dark-ui"] .mde-preview .cm-builtin {
-  color: #8abeb7;
+  color: #cbcbcb;
 }
 body[class*="dark-ui"] .mde-preview .cm-bracket {
   color: #f99157;
