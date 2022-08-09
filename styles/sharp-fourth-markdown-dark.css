@@ -106,7 +106,7 @@ body[class*="dark-ui"] .mde-preview .cm-property {
   color: #b5bd68;
 }
 body[class*="dark-ui"] .mde-preview .cm-operator {
-  color: #cc99cc;
+  color: #e3e3e3;
 }
 body[class*="dark-ui"] .mde-preview .cm-variable {
   color: #17e9d5;
@@ -118,7 +118,7 @@ body[class*="dark-ui"] .mde-preview .cm-variable-3 {
   color: rgba(255, 255, 255, 0.8);
 }
 body[class*="dark-ui"] .mde-preview .cm-type {
-  color: #cbcbcb;
+  color: #a7a7a7;
 }
 body[class*="dark-ui"] .mde-preview .cm-comment {
   color: #696969;
@@ -137,7 +137,7 @@ body[class*="dark-ui"] .mde-preview .cm-qualifier {
   color: #555;
 }
 body[class*="dark-ui"] .mde-preview .cm-builtin {
-  color: #cbcbcb;
+  color: #a7a7a7;
 }
 body[class*="dark-ui"] .mde-preview .cm-bracket {
   color: #f99157;
