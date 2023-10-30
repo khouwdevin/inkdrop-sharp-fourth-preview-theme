@@ -1,7 +1,7 @@
 {
   "name": "sharp-fourth-preview",
   "description": "The sharp fourth for inkdrop preview theme.",
-  "version": "0.2.4",
+  "version": "1.0.0",
   "theme": "preview",
   "scripts": {
     "build": "lessc styles/less/sharp-fourth-markdown.less ./styles/sharp-fourth-markdown.css && lessc styles/less/sharp-fourth-markdown-dark.less ./styles/sharp-fourth-markdown-dark.css"
@@ -13,9 +13,9 @@
     "sharp-fourth-markdown-dark.css"
   ],
   "engines": {
-    "inkdrop": "^5.x"
+    "inkdrop": "^5.6"
   },
   "devDependencies": {
-    "less": "^3.11.3"
+    "less": "^4.2.0"
   }
 }
