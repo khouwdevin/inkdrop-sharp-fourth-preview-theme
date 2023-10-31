@@ -20,4 +20,4 @@ ipm install sharp-fourth-preview
 
 ![Screenshot 2](https://github.com/khouwdevin/inkdrop-sharp-fourth-preview-theme/blob/master/pictures/photo2.png?raw=true)
 
-Here [Gold&Green Theme](https://my.inkdrop.app/plugins/goldgreen-dark-ui) || [Stylized&Fantasy Theme](https://my.inkdrop.app/plugins/stylized-fantasy-syntax-theme)
+Here's the themes [Gold&Green Theme](https://my.inkdrop.app/plugins/goldgreen-dark-ui) || [Stylized&Fantasy Theme](https://my.inkdrop.app/plugins/stylized-fantasy-syntax-theme)
